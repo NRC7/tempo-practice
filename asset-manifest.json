@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tempo-practice/static/css/main.e6c13ad2.css",
+    "main.js": "/tempo-practice/static/js/main.f345a03c.js",
+    "static/js/453.9216e151.chunk.js": "/tempo-practice/static/js/453.9216e151.chunk.js",
+    "index.html": "/tempo-practice/index.html",
+    "main.e6c13ad2.css.map": "/tempo-practice/static/css/main.e6c13ad2.css.map",
+    "main.f345a03c.js.map": "/tempo-practice/static/js/main.f345a03c.js.map",
+    "453.9216e151.chunk.js.map": "/tempo-practice/static/js/453.9216e151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f345a03c.js"
+  ]
+}
